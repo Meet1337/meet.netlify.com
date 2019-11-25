@@ -1,0 +1,14 @@
+.site-header {
+    background-color: #16164d;
+    color: #b45959;
+    border-radius: 50%;
+    height: 100vh;
+    font-family: monospace;
+}
+
+.site-header-content {
+    margin: 10px;
+}
+body{
+    margin: 0;
+}
