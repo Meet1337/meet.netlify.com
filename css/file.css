@@ -10,11 +10,13 @@
     border-radius: 50%;
     height: 200px;
     width: 200px;
+    align-content: center;
 
 }
 
 .site-header-content {
     margin: 10px;
+    font-size: medium;
 }
 body{
     margin: 0;
